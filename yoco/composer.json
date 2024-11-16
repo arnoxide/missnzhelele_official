@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "yoco/yoco-php": "v0.1.0-beta"
+    }
+}
